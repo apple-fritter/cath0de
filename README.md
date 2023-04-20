@@ -20,3 +20,7 @@ By running this script, users can easily create an index of YouTube videos for r
 * The script does not handle errors or exceptions very gracefully. For example, if the user's page is unavailable or the HTML content cannot be parsed, the script will likely produce errors. It's important to test the script thoroughly and handle errors appropriately to avoid issues.
 
 * The script only outputs the data in a TSV file. If you need the data in a different format or want to analyze it using a different tool, you'll need to modify the script or use a different tool to convert the TSV file.
+
+## License
+
+This script is released under the [MIT License](LICENSE).

@@ -1,4 +1,4 @@
-# youtube_user.index
+# cath0de
 Unleash the historian in you with this amazing bash script! Scrape any YouTube user's page and build a comprehensive index of their videos, complete with date and time posted, absolute URL, title, author's description, and video ID. You'll never lose track of your favorite historical footage again, and with the power of TSV files at your fingertips, you'll be able to organize and analyze your data like a true archivist. Try it out now and become a master historian!
 ## How it works
 This bash script allows you to scrape a YouTube user's page and build an index of their videos in a tab-separated values (TSV) file. The script first prompts the user to enter the username of the YouTube channel they want to scrape, or accepts the username as a command-line argument.
